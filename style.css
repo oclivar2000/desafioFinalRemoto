@@ -19,3 +19,10 @@ body {
 .content {
     flex: 1; 
 }
+
+.tamanoImagen img{
+    max-width: 100%;  
+    height: auto;    
+    display: block;  
+    margin: auto; 
+}
